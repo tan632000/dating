@@ -1,0 +1,28 @@
+[
+    {
+      "fullName": "Hoang Van Tan",
+      "email": "tanhaudue@gmail.com",
+      "password": "1",
+      "phoneNumber": "0971416727",
+      "address": "Hai Duong",
+      "role": "1",
+      "userToken": "adasdadada"
+    },{
+      "fullName": "Nguyen Tien Dat",
+      "email": "daide1392@gmail.com",
+      "password": "1",
+      "phoneNumber": "0383777790",
+      "address": "Ha Noi",
+      "role": "1",
+      "userToken": "adasdadada"
+    },{
+      "fullName": "Pham Van Tai",
+      "email": "phamtai2202@gmail.com",
+      "password": "1",
+      "phoneNumber": "0388685869",
+      "address": "Nghe An",
+      "role": "1",
+      "userToken": "adasdadada"
+    }
+]
+  
